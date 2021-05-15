@@ -7,7 +7,7 @@ Vamos revisar conceitos? Resposta as perguntas abaixo com as suas palavras:
 
 ```
 1. O que é iteração?
-É executar uma sequência de instruções em um determinado número de vezes ou até que determinada condição seja satisfeita. Ex.: comandos for e while. (wikipedia)
+É executar uma sequência de instruções em um determinado número de vezes ou até que determinada condição seja satisfeita. Ex.: comandos for e while. (Referência: wikipedia)
 
 
 2. Qual a diferença de uma function padrão e a arrow function?
